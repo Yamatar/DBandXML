@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jobs>
+    <job>
+        <depCode>3</depCode>
+        <depJob>job2</depJob>
+        <description>description4</description>
+    </job>
+    <job>
+        <depCode>4</depCode>
+        <depJob>job5</depJob>
+        <description>description7</description>
+    </job>
+    <job>
+        <depCode>1</depCode>
+        <depJob>job1</depJob>
+        <description>description2</description>
+    </job>
+    <job>
+        <depCode>1</depCode>
+        <depJob>job2</depJob>
+        <description>description6</description>
+    </job>
+    <job>
+        <depCode>2</depCode>
+        <depJob>job1</depJob>
+        <description>description3</description>
+    </job>
+</jobs>
